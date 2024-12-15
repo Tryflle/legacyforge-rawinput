@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "Raw input",
+    "description": "Raw input",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/tryflle/legacyforge-rawinput",
+    "updateUrl": "",
+    "authorList": [
+      "Tryfle, River"
+    ],
+    "credits": "River",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
